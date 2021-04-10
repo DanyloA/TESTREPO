@@ -1,0 +1,2 @@
+file = open('Bukvy.txt',r)
+print(2312312)
